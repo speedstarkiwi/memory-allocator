@@ -4,4 +4,4 @@ this **literally** just increases your RAM it is written in pure C++ and increas
 
 # warning
 
-This is a **JOKE!** If you even *run* this program, you're 
+This is a **JOKE!** If you even *run* this program, you're PC will run out of memory. what does that mean? it means you exceed the memory!
